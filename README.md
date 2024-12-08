@@ -12,7 +12,7 @@ An extremely simple script for downloading all images from a website using wget
  ## Installing figlet
  for ubuntu and debian systems
  ```
- sudo pacman figlet
+ sudo apt install figlet
  ```
  for arch systems
  ```
