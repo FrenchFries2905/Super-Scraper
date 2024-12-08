@@ -9,6 +9,9 @@ An extremely simple script for downloading all images from a website using wget
  For unix or linux based systems only
 
  Requires wget 
+ Requires Figlet for rendering ASCII art
+
+ 
  ## Installing wget
  for debian and ubuntu systems
  ```
@@ -19,7 +22,7 @@ for arch based systems
 pacman -Sy wget
 ```
 
- Must have figlet for rendering ascii art
+ 
  ## Installing figlet
  for ubuntu and debian systems
  ```
