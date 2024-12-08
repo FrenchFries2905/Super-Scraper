@@ -9,6 +9,8 @@ An extremely simple script for downloading all images from a website using wget
  For unix or linux based systems only
 
  Requires wget 
+
+ 
  Requires Figlet for rendering ASCII art
 
  
