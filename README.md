@@ -8,6 +8,17 @@ An extremely simple script for downloading all images from a website using wget
 ## Requirements
  For unix or linux based systems only
 
+ Requires wget 
+ ## Installing wget
+ for debian and ubuntu systems
+ ```
+sudo apt install wget
+```
+for arch based systems
+```
+pacman -Sy wget
+```
+
  Must have figlet for rendering ascii art
  ## Installing figlet
  for ubuntu and debian systems
